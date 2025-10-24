@@ -38,5 +38,5 @@ Tech: MERN Stack, WebSockets, JWT
 
 Email: amanueltesfay0305@gmail.com
 
-LinkedIn: linkedin.com/in/amanuel-tesfamichael
+LinkedIn: https://www.linkedin.com/in/amanuel-tesfamichael-83874a346
 GitHub: https://github.com/AmanuelT-tech
